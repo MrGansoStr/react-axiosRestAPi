@@ -1,0 +1,32 @@
+.cosa {
+    background: #202020;
+    color: white;
+    padding: 30px;
+    border: 0 auto;
+}
+
+.nav-container {
+    border: solid black 0.2px;
+}
+
+.center-all {
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.img-flot {
+    display: flex;
+}
+
+.text-in-img {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 40px;
+}
+.text-in-img1 {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 25px;
+}
